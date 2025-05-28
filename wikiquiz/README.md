@@ -1,5 +1,10 @@
 # Welcome to my technical test for Rollee
 
+## To launch the server
+
+`python manage.py migrate`
+`python manage.py runserver`
+
 ## API endpoints:
 
 ### Quiz
@@ -14,4 +19,5 @@ Result:
     "paragraphs": [
             ...
         ]
-}```
+}
+```
