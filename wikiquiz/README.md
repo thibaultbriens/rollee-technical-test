@@ -14,7 +14,8 @@ Endpoint:
 
 Result:
 
-```{
+```
+{
     "title": "Python (programming language)",
     "paragraphs": [
             ...
